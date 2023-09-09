@@ -6,7 +6,6 @@ Training
 Extras
 There are a lot of helpful Git and GitHub resources on the web. This is a short list of our favorites!
 
-add typo
 Using Git
 Familiarize yourself with Git by visiting the official Git project site and reading the ProGit book. You can also review the Git command list.
 
@@ -16,7 +15,7 @@ GitHub Skills offers free interactive courses that are built into GitHub with in
 Become better acquainted with GitHub through our getting started articles. See our GitHub flow for a process introduction. Refer to our overview guides to walk through basic concepts.
 
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
-This is a typo added.
+
 Branches, forks, and pull requests
 Learn about Git branching using an interactive tool. Read about forks and pull requests as well as how we use pull requests at GitHub. Access references about using GitHub from the command line.
 
@@ -37,4 +36,4 @@ Extend your GitHub reach through integrations, or by installing GitHub Desktop a
 
 Learn how to launch and grow your open source project with the Open Source Guides.
 
-Assignment Due Date: September 11th
+
